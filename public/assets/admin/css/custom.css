@@ -1,0 +1,51 @@
+.info-box a .info-box-text {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #fff; 
+}
+.table-responsive .table td img{
+	max-width: 110px;
+	height: auto;
+	padding: 0px;
+}
+.card-header h2.card-title {
+    font-size: 1.5rem;
+}
+.card-header {
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    
+}
+.alert {
+    position: relative;
+    margin-left: 30px;
+    margin-bottom: 0.5rem;
+   }
+.register-box .alert {
+    position: relative;
+    margin-left: 0px;
+    margin-bottom: 0.9rem;
+   }
+   .offset-8 {
+    margin-left: 50.0%;
+}
+.card-body .register-padding-top{
+  padding-top: 5px;
+}
+.nav-item .pull-right-container{
+     padding-left: 35px;
+}
+.nav-item .bg-green {
+    background-color: #28a745!important;
+    padding: 0 5px 3px 5px;
+}
+.bg-green {
+    background-color: #dc3545!important;
+}
+.info-box .info-box-number .pull-right{
+    display: block;
+    font-size: 1.2rem;
+    color: #fff!important;
+    margin-top: .25rem!important!important;
+    font-weight: 700!important;
+}

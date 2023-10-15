@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /source/
+Disallow: /login
+Disallow: /framework-laravel/
+
+Sitemap: https://mysite/sitemap.xml
